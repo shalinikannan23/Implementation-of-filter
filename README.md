@@ -8,7 +8,7 @@ Anaconda - Python 3.7
 - Step2: Read the image and convert to RGB mode.
 - Step3: Apply various filter methods.
 - Step4: Display the Output Images.
-- Step5: End the Program.
+- Step5: End the Program.    
 ### Program:
 <table>
 <tr>

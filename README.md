@@ -1,4 +1,4 @@
-# EX-6 IMPLEMENTATION OF FILTERS
+# EX-5 IMPLEMENTATION OF FILTERS
 ### Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.&emsp;&emsp;&emsp;**DATE:** 19.03.2024
 ### Software Required:
